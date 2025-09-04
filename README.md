@@ -13,7 +13,7 @@ Translates Foreign Lanugauges - French, Spanish and Hindi - to English
 Clone the repository, install the npm packages and start.
 
 ```
-git clone https://github.com/Uncharted0110/Infosys-Proj
+git clone https://github.com/PranjaliBhardwaj/Englify
 cd Infosys-Proj
 npm install
 npm start
